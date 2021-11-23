@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on tips on business analytics, data science, data analytics or other coding support. Memes appreciated - obviously!
 - 📫 How to reach me: shoot me a mail @ khawaja.mudabbir@gmail.com or hit me up at instagram: mudabbir.khawaja, or linked-in: Mudabbir Khawaja.
 
+In my respitories, you will find ongoing projects around data science, utilizing data tools, such as R and Python.
 <!---
 mudabbir-khawaja/mudabbir-khawaja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
