@@ -6,6 +6,8 @@
 
 In my respitories, you will find ongoing projects around data science, utilizing data tools, such as R and Python. In 2022 I will start my blog, which will include stories from current projects. Failures, Success or simple learnings will be written down and presented to you. I am happy to get a coffee with whoever is interested to impact this world. 
 
+If you are interested in the companies I started, please visit www.amuu.de and www.kukex.de
+
 After living in 4 different cities on 3 continents, leading 122 students globally, founding companies, and being a brother I truly agree with Albert Einstein's Quote: “The more I learn, the more I realize how much I don't know.” - but isn't that enough to stay curios at all cost?
 
 <!---
